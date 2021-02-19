@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello, I'm [Rajendra Singh!](https://singhrajenm.github.io) 👋
 <br />
-### A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17.
+### A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17. 
 
 <br />
 <br />
