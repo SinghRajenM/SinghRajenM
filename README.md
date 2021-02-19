@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17.
 
-[![Rajendra's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajenM)]()
+[![Rajendra's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajenM)](https://github.com/SinghRajenM)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajenM)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajenM)](https://github.com/SinghRajenM)
