@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I'm [Rajendra Singh!](https://singhrajenm.github.io){:target="_blank"} 👋
+### Hello, I'm [Rajendra Singh!](https://singhrajenm.github.io/?target=_blank) 👋
 <br />
 <b> A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17. </b>
 
