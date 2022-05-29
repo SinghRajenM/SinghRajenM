@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajenM)](https://github.com/SinghRajenM)  &nbsp;&nbsp;  [![Rajendra's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajenM)](https://github.com/SinghRajenM)
+
+
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM)
+<br />
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM/card)
+<br />
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM/button)
