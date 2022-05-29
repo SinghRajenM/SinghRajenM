@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 
 ### Hello, I'm [Rajendra Singh!](https://singhrajenm.github.io) 👋
 <br />
-<b> A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17/20. </b>
+<b> A passionate C++ developer from India. I love developing windows solutions using Win32/VC++, C++11/14/17/20. </b> 
 
 <br />
 <br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghRajenM)](https://github.com/SinghRajenM)  &nbsp;&nbsp;  [![Rajendra's github stats](https://github-readme-stats.vercel.app/api?username=SinghRajenM)](https://github.com/SinghRajenM)
 
 
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM)
-<br />
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM/card)
-<br />
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/SinghRajenM/button)
+ 
+
+[:heart: Sponsor me on Github](https://github.com/sponsors/SinghRajenM)
